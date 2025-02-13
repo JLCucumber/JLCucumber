@@ -34,7 +34,7 @@ I am a Robotics & AI MSc student at UCL, passionate about **quadruped robots, re
 - **SLAM**
 - **LLM**
 
-## 📚 Publications
+<!-- ## 📚 Publications
 
 - **[Paper Title]**, Conference Name, Year. [[DOI](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)][[PDF](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)][[GitHub](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)]
 - **[Paper Title]**, Conference Name, Year. [[DOI](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)][[PDF](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)][[GitHub](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)]
@@ -76,6 +76,8 @@ I am a Robotics & AI MSc student at UCL, passionate about **quadruped robots, re
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 🔗 [Personal Website](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) | [Google Scholar](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) | [Twitter](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) | [LinkedIn](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)
 
+
 ---
 
-⭐️ **Star my repositories** if you find my work useful!
+⭐️ **Star my repositories** if you find my work useful! -->
+
