@@ -62,7 +62,7 @@ I am a Robotics & AI MSc student at UCL, passionate about **quadruped robots, re
 
 ## 🛠️ Open Source Contributions
 
-- Contributor to [OpenQuadruped](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)
+<!-- - Contributor to [OpenQuadruped](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) -->
 - Developed a custom **Isaac Gym RL Environment** for legged robots
 
 ## 🎯 PhD Applications & Research Plans
