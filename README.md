@@ -18,21 +18,20 @@ Here are some ideas to get you started:
 
 
 
-🎓 **PhD Applicant in Robotics & AI | Socially Aware Navigation | Quadruped Robotics | RL**
+🎓 **PhD Applicant in Robotics & AI | Quadruped Robotics | Perceptive & Agile Locomotion | RL**
 
-I am a Robotics & AI MSc student at UCL, passionate about **quadruped robots, reinforcement learning, and human-robot interaction**. I am currently working on:
+I am a Robotics & AI MSc student at UCL, passionate about ** agile locomotion for quadruped robots**. I am currently working on:
 
-- 🤖 Quadruped robot locomotion with RL & Sim2Real deployment
+- 🤖 Learning-based Quadruped robot locomotion
 - 🧠 
 - 🚶‍♂️ 
 
 ## 🔬 Research Interests
 
-- **Robot Learning** (Reinforcement Learning, Imitation Learning, Multimodal AI)
-- **Quadruped Locomotion** (Sim2Real Transfer, Optimal Control)
-- **Robot State Estimation** (EKF)
+- **Learning-Based Locomotion** (Reinforcement Learning, Imitation Learning, Multimodal AI)
+- **Perceptive Locomotion** (Sim2Real Transfer, Optimal Control)
+- **Parkour** (EKF)
 - **SLAM**
-- **LLM**
 
 <!-- ## 📚 Publications
 
@@ -41,10 +40,8 @@ I am a Robotics & AI MSc student at UCL, passionate about **quadruped robots, re
 
 ## 🔧 Technical Skills
 
-- **Programming:** Python, C++, MATLAB, ROS2, Isaac Sim
-- **Deep Learning:** PyTorch, TensorFlow, RLlib
-- **Simulation & Control:** Gazebo, MuJoCo, PyBullet, MPC, PID
-- **Vision & Perception:** OpenCV, YOLO, SLAM, Pose Estimation
+- **Programming:** Python, MATLAB, ROS2
+- **Simulation & Control:** Isaac Lab, Isaac Gym
 
 ## 🏆 Projects
 
@@ -54,12 +51,6 @@ I am a Robotics & AI MSc student at UCL, passionate about **quadruped robots, re
 - **Tools:** Isaac Gym, RLlib, ROS2, MPC
 - [**Code](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) | [Demo](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) | [Paper](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)**
 
-### 2️⃣ Socially Aware Navigation
-
-- **Description:** Predicting and modeling human group behavior for robot navigation.
-- **Tools:** Transformer, GNN, Bayesian Modeling
-- [**Code](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) | [Paper](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21)**
-
 ## 🛠️ Open Source Contributions
 
 - Contributor to [OpenQuadruped](https://www.notion.so/Profile-199d55a5dc4280649abcdf5dc3ea1a88?pvs=21) 
@@ -67,9 +58,6 @@ I am a Robotics & AI MSc student at UCL, passionate about **quadruped robots, re
 
 ## 🎯 PhD Applications & Research Plans
 
-- ✅ **PhD Offer from King's College London** (Socially Aware Navigation)
-- 🟡 Awaiting Results: **Edinburgh CDT-D2AIR, UCL EPSRC UELA**
-- 📌 Research Proposal: **Multimodal Vision-Language-Action Models for Robotics**
 
 ## 📫 Get in Touch
 
